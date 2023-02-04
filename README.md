@@ -10,7 +10,7 @@
 |metric    | MSE   | MSE   | MSE   | MSE   | MSE      | MSE   | MSE   | MSE      | AUC  | MAUC | MAUC | MAUC | MAUC|
 
 
-## Tabular data properties.
+## Tabular data properties. All the tabular data can be down load at [link](https://www.dropbox.com/s/o53umyg6mn3zhxy/data.tar.gz?dl=1 -O revisiting_models_data.tar.gz).
 |Dataset| YE     | MI  | YA     | CA    | AD    | HI    | EP     | HE    | CO     | JA   |
 |------ |------ |------ |------ |------ |------ |------ |------ |------ |------ |------ |
 |objects| 515345 | 1200192 | 709877 | 20640 | 48842 | 98050 | 500000 | 65196 | 581012 | 83733 |
@@ -18,3 +18,19 @@
 |cat_features | 0      |0        | 0     | 0    | 8     | 0    | 0      | 0     | 0      | 0     |
 |classes      | -      | -       | -     | -    | 2     | 2    | 2      | 100   | 7      | 4     |
 | metric      | MSE    | MSE     | MSE   | MSE   | AUC  | AUC  | AUC    | MAUC  | MAUC   | MAUC  |
+
+
+NormEnhancer 数据集地址
+
+Time Regression：
+
+ETT 系列 ：https://github.com/zhouhaoyi/ETDataset
+WTH、ECL： https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR
+Traffic、exchange： https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy
+
+Time classification：
+  https://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip
+
+
+Tabular Regression/Tabular classification：
+ https://www.dropbox.com/s/o53umyg6mn3zhxy/data.tar.gz?dl=1 -O revisiting_models_data.tar.gz
