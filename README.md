@@ -10,8 +10,7 @@
 |metric    | MSE   | MSE   | MSE   | MSE   | MSE      | MSE   | MSE   | MSE      | AUC  | MAUC | MAUC | MAUC | MAUC|
 
 
-## Tabular data properties. 
-All the tabular data can be down load at [link](https://www.dropbox.com/s/dl/o53umyg6mn3zhxy/data.tar.gz).
+## Tabular data properties. All the tabular data can be down load at [link](https://www.dropbox.com/s/dl/o53umyg6mn3zhxy/data.tar.gz).
 |Dataset| YE     | MI  | YA     | CA    | AD    | HI    | EP     | HE    | CO     | JA   |
 |------ |------ |------ |------ |------ |------ |------ |------ |------ |------ |------ |
 |objects| 515345 | 1200192 | 709877 | 20640 | 48842 | 98050 | 500000 | 65196 | 581012 | 83733 |
