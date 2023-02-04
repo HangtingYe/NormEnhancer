@@ -19,3 +19,6 @@ All the tabular data can be down load at [link](https://www.dropbox.com/s/dl/o53
 |cat_features | 0      |0        | 0     | 0    | 8     | 0    | 0      | 0     | 0      | 0     |
 |classes      | -      | -       | -     | -    | 2     | 2    | 2      | 100   | 7      | 4     |
 | metric      | MSE    | MSE     | MSE   | MSE   | AUC  | AUC  | AUC    | MAUC  | MAUC   | MAUC  |
+
+## NormEnhancer's performance
+![image](insight1.png)
