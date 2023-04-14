@@ -28,6 +28,8 @@
 |            | +Boosting     | **9.077**  |   12.143   |   7.063    |   7.813    | **4.52e-4** |   748.2   |   2   |   2   |
 |            | +NormBoosting |   9.092    | **11.662** | **7.040**  | **7.775**  |   5.11e-4   | **747.5** | **4** | **4** |
 
+
+
 ## Time series data properties.
 | Dataset| ETTh1 [link](https://github.com/zhouhaoyi/ETDataset)| ETTh2 [link](https://github.com/zhouhaoyi/ETDataset) | ETTm1 [link](https://github.com/zhouhaoyi/ETDataset) | ETTm2 [link](https://github.com/zhouhaoyi/ETDataset) | Exchange [link](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) | WTH [link](https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR) | ECL [link](https://drive.google.com/drive/folders/1ohGYWWohJlOlb2gsGTeEq3Wii2egnEPR)  | Traffic [link](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) | FA [link](https://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip) | PE [link](https://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip)  | HA [link](https://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip) | PH [link](https://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip)  | IN [link](https://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_arff.zip) |
 | ------ | ----- | ----- | ----- | ------| -------  | ---  | -----| -------  | --  | --  | --  | ---  | --  | 
@@ -38,6 +40,8 @@
 |metric    | MSE   | MSE   | MSE   | MSE   | MSE      | MSE   | MSE   | MSE      | AUC  | MAUC | MAUC | MAUC | MAUC|
 
 
+
+
 ## Tabular data properties. All the tabular data can be down load at [link](https://www.dropbox.com/s/dl/o53umyg6mn3zhxy/data.tar.gz).
 |Dataset| YE     | MI  | YA     | CA    | AD    | HI    | EP     | HE    | CO     | JA   |
 |------ |------ |------ |------ |------ |------ |------ |------ |------ |------ |------ |
@@ -46,6 +50,8 @@
 |cat_features | 0      |0        | 0     | 0    | 8     | 0    | 0      | 0     | 0      | 0     |
 |classes      | -      | -       | -     | -    | 2     | 2    | 2      | 100   | 7      | 4     |
 | metric      | MSE    | MSE     | MSE   | MSE   | AUC  | AUC  | AUC    | MAUC  | MAUC   | MAUC  |
+
+
 
 ## NormEnhancer's performance
 ![image](insight1.png)
