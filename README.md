@@ -1,6 +1,6 @@
 # NormEnhancer
 
-## Comparison with ensemble and boosting only
+## Result 1, Comparison with ensemble and boosting only
 |     |       |  ETTh1  |  ETTh2  |  ETTm1  |  ETTm2  |  Exchange  |  WTH  |  Wins  | Norm Wins |
 |:---:|:-----:|:-------:|:-------:|:-------:|:-------:|:----------:|:-----:|:------:|:--------:|
 | GRU        | +Ensemble     |   13.937   |   27.020   |   10.900   |   15.032   |   1.55e-2   |   895.4   |   0   | **3** |
