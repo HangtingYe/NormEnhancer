@@ -1,5 +1,6 @@
 # NormEnhancer
 
+
 ## Result 1, Comparison with ensemble and boosting only
 |     |       |  ETTh1  |  ETTh2  |  ETTm1  |  ETTm2  |  Exchange  |  WTH  |  Wins  | Norm Wins |
 |:---:|:-----:|:-------:|:-------:|:-------:|:-------:|:----------:|:-----:|:------:|:--------:|
