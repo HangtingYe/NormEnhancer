@@ -1,6 +1,6 @@
 # NormEnhancer
 
-
+<!--
 ## Result 1, comparison of ensemble-style (our method) and boosting-style (our method) with simple ensemble and boosting only
 |     |       |  ETTh1  |  ETTh2  |  ETTm1  |  ETTm2  |  Exchange  |  WTH  |  Wins  | Norm Wins |
 |:---:|:-----:|:-------:|:-------:|:-------:|:-------:|:----------:|:-----:|:------:|:--------:|
@@ -28,7 +28,7 @@
 |            | +ensemble-style |   9.240    |   11.998   |   7.103    |   7.925    |   4.66e-4   |   795.9   |   0   |   1   |
 |            | +boosting     | **9.077**  |   12.143   |   7.063    |   7.813    | **4.52e-4** |   748.2   |   2   |   2   |
 |            | +boosting-style |   9.092    | **11.662** | **7.040**  | **7.775**  |   5.11e-4   | **747.5** | **4** | **4** |
-
+-->
 
 
 ## Time series data properties.
