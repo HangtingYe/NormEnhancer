@@ -1,23 +1,23 @@
 # NormEnhancer
 
 ## Time series deep models.
-GRU: Unlike traditional RNNs, GRU incorporates gating mechanisms that enable it to selectively update and reset its memory cells.  
-TCN: A typical temporal convolutional network.   
-Autoformer: A variant of Transformers with a decomposition forecasting architecture.   
-LightTS: A light deep learning architecture merely based on simple MLP-based structures.   
-SCINet:  SCINet downsamples the time series and uses convolutional filters to extract features and interact information.   
-DLinear:  DLinear is a combination of a Decomposition scheme used in Autoformer and FEDformer with linear layers.   
-ResNet: ResNet-like architecture used for time series data.     
-InceptionTime: InceptionTime is a deep learning model designed for time series data, leveraging a combination of the Inception architecture developed by Google. It incorporates elements from both Convolutional Neural Networks (CNNs) and Residual Networks (ResNets) to tackle various time series prediction tasks.   
-OS-CNN: Unlike conventional Convolutional Neural Networks (CNNs), OS-CNN is designed to process skeletal joint information, making it highly effective for understanding human actions from temporal sequences of skeletal data.   
+**GRU**: Unlike traditional RNNs, GRU incorporates gating mechanisms that enable it to selectively update and reset its memory cells.  
+**TCN**: A typical temporal convolutional network.   
+**Autoformer**: A variant of Transformers with a decomposition forecasting architecture.   
+**LightTS**: A light deep learning architecture merely based on simple MLP-based structures.   
+**SCINet**:  SCINet downsamples the time series and uses convolutional filters to extract features and interact information.   
+**DLinear**:  DLinear is a combination of a Decomposition scheme used in Autoformer and FEDformer with linear layers.   
+**ResNet**: ResNet-like architecture used for time series data.     
+**InceptionTime**: InceptionTime is a deep learning model designed for time series data, leveraging a combination of the Inception architecture developed by Google. It incorporates elements from both Convolutional Neural Networks (CNNs) and Residual Networks (ResNets) to tackle various time series prediction tasks.   
+**OS-CNN**: Unlike conventional Convolutional Neural Networks (CNNs), OS-CNN is designed to process skeletal joint information, making it highly effective for understanding human actions from temporal sequences of skeletal data.   
 
 ## Tabular deep models.  
-MLP:  
-ResNet:  The key innovation is the use of residual connections, also known as skip connections or shortcut connections. These connections enable the network to effectively train very deep neural networks, which was challenging before due to the vanishing gradient problem.    
-TabNet:  A recurrent architecture that alternates dynamical reweighing of features and conventional feed-forward modules.   
-AutoInt:  Transforms features to embeddings and applies a series of
+**MLP**:  
+**ResNet**:  The key innovation is the use of residual connections, also known as skip connections or shortcut connections. These connections enable the network to effectively train very deep neural networks, which was challenging before due to the vanishing gradient problem.    
+**TabNet**:  A recurrent architecture that alternates dynamical reweighing of features and conventional feed-forward modules.   
+**AutoInt**:  Transforms features to embeddings and applies a series of
 attention-based transformations to the embeddings.   
-FTTransformer:  FT-Transformer is introduced by ~\citep{gorishniy2021revisiting} to further improved AutoInt through better token embeddings.  
+**FTTransformer**:  FT-Transformer is introduced by ~\citep{gorishniy2021revisiting} to further improved AutoInt through better token embeddings.  
 
 
 
