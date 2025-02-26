@@ -22,7 +22,7 @@ from config import Config
 from utils import dump_json_to, load_json_from, EarlyStopping
 
 
-logger = logging.getLogger(__name__)
+
 
 norm_list = ['none', 'power', 'quant', 'z-score', 'minmax', 'robust']
 
