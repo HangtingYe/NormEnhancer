@@ -16,7 +16,7 @@ from itertools import cycle
 
 
 class BaseExp:
-    
+    """Define the basic APIs"""
 
     def __init__(self, data_dict, config, logger,rid, device='cuda'):
         super().__init__()
