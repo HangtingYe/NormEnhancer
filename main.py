@@ -3,7 +3,7 @@ warnings.simplefilter('error', RuntimeWarning)
 import logging
 import os
 from pipeline import Pipeline
-from config import get_config_from_command, get_config_from_file
+
 
 
 logging.basicConfig(
