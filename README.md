@@ -44,5 +44,5 @@ attention-based transformations to the embeddings.
 
 
 
-## NormEnhancer's performance
+## NormEnhancer's performance.
 ![image](insight1.png)
