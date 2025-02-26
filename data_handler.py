@@ -1,4 +1,3 @@
-# from importlib.metadata import requires
 import numpy as np
 
 import torch
