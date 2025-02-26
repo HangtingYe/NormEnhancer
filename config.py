@@ -69,7 +69,7 @@ def get_config_from_file():
     parser = argparse.ArgumentParser(description='Wind Power Forecasting')
     # parser.add_argument('--config_file', type=str, required=True)
     # parser.add_argument('--log_file', type=str)
-    ################################### Tabular #####################
+    ################################### Tabular ######################
     
     # adult binary
     # parser.add_argument('--config_file', type=str, default="./configs/tabular/classification/binary/adult/tabnet.json")
@@ -104,7 +104,7 @@ def get_config_from_file():
     # parser.add_argument('--config_file', type=str, default="./configs/tabular/classification/multi-class/helena/deepfm.json")
     # parser.add_argument('--config_file', type=str, default="./configs/tabular/classification/multi-class/helena/fttransformer.json")
 
-    ################################### Time Series #####################
+    ################################### Time Series ######################
 
     # ETTh1 autoformer
     # parser.add_argument('--config_file', type=str, default="./configs/time/ETTh1/autoformer.json")
